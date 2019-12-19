@@ -2,7 +2,7 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://solayunus.github.io/react-gh-pages-1",
+  "homepage": "https://solayunus.github.io/react-gh-pages-1",
   "dependencies": {
     "node": "^13.1.0",
     "react": "^15.5.4",
